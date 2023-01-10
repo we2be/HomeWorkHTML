@@ -1,0 +1,24 @@
+h1 {
+    color:rgb(29, 87, 87);
+    font-family: fantasy;
+}
+h2 {
+    color:rgb(43, 94, 165);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.занятия {
+    color: rgb(45, 183, 242);
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.фу {
+    color: rgb(227, 9, 9);
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+p {
+    color: rgb(4, 29, 29);
+    font-size: large;
+}
+body {background-color: antiquewhite;}
